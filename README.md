@@ -1,7 +1,5 @@
-# toxic-comment-detector
-NLP-based Toxic Comment Detection using Logistic Regression and TF-IDF. Cleans and vectorizes text to classify comments as toxic or non-toxic. Includes preprocessing, training, evaluation, and saved models.
-
 # Toxic Comment Detection
+NLP-based Toxic Comment Detection using Logistic Regression and TF-IDF. Cleans and vectorizes text to classify comments as toxic or non-toxic. Includes preprocessing, training, evaluation, and saved models.
 
 ## Overview
 This project detects toxic comments in text using NLP and Logistic Regression.  
